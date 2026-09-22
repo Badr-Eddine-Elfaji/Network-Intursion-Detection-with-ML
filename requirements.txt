@@ -1,0 +1,10 @@
+Python==3.12.7 
+Pandas==2.2.2
+NumPy==1.26.4
+Matplotlib==3.9.2
+Seaborn==0.13.2
+Scikit-learn==1.6.0
+XGBoost==3.1.1
+Imbalanced-learn==0.12.3
+Joblib==1.4.2
+TensorFlow==2.21.0
